@@ -4,3 +4,4 @@ This is the first application for
 [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
 by [Michael Hartl](http://michaelhartl.com/).
 # strike1
+# https-github.com-cjon1-first_app.git-
